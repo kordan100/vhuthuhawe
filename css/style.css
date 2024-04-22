@@ -1276,8 +1276,9 @@ img{
 	z-index:5;
 }
 
-.main-slider .tp-dottedoverlay{
-	background-color:rgba(0,0,0,0.50) !important;	
+.main-slider .tp-dottedoverlay
+{
+	background-color:none !important;	
 }
 
 .main-slider .small-title{
@@ -1501,13 +1502,13 @@ img{
 
 .main-footer{
 	position:relative;
-	background:#1c4583;
+	background:#000000;
 }
 
 .main-footer .upper-box{
 	position:relative;
 	padding:35px 0px 20px;
-	border-bottom:1px solid #275293;
+	border-bottom:1px solid #7D5E00;
 }
 
 .main-footer .upper-box h2{
@@ -1717,7 +1718,7 @@ img{
 .news-widget .news-post .posted-date{
 	position:relative;
 	font-size:17px;
-	color:#5a7fb7;
+	color:#7D5E00;
 	font-weight:300;
 }
 
@@ -1740,7 +1741,7 @@ img{
 	position:absolute;
 	left:0px;
 	top:4px;
-	color:#487dbe;
+	color:#7D5E00;
 	font-size:22px;
 	line-height:1em;
 }
@@ -1800,7 +1801,7 @@ img{
 	font-size:14px;
 	padding:18px 0px;
 	line-height:24px;
-	background:#193e76;
+	background:#000000;
 	z-index:1;
 }
 
@@ -1834,12 +1835,12 @@ img{
 	position:relative;
 	width:35px;
 	height:35px;
-	color:#6784af;
+	color:#7D5E00;
 	font-size:16px;
 	line-height:32px;
 	text-align:center;
 	display:inline-block;
-	border:1px solid #6784af;
+	border:1px solid #7D5E00;
 }
 
 .social-icon-one li a:hover{
@@ -1869,7 +1870,7 @@ img{
 	line-height:32px;
 	text-align:center;
 	display:inline-block;
-	border:2px solid #4b7bc4;
+	border:2px solid #7D5E00;
 	-webkit-transition:all 300ms ease;
 	-ms-transition:all 300ms ease;
 	-o-transition:all 300ms ease;
@@ -2665,7 +2666,7 @@ img{
 }
 
 .team-member .inner-box .lower-content h3 a:hover{
-	color:#1c4583;
+	color:#;
 }
 
 .team-member .inner-box .lower-content .designation{
@@ -2764,7 +2765,7 @@ img{
 	width:50%;
 	height:100%;
 	display:block;
-	background:#1c4583;
+	background:#000000;
 }
 
 .fullwidth-section-two:after{
@@ -2807,7 +2808,7 @@ img{
 	left:0px;
 	top:0px;
 	font-size:100px;
-	color:#1f4c8f;
+	color:#000000;
 	font-family: "Flaticon";
 }
 
@@ -2904,8 +2905,8 @@ img{
 	width:32px;
 	height:32px ;
 	padding:0px ;
-	border:1px solid #395d95 ;
-	color:#395d95 ;
+	border:1px solid #000000 ;
+	color:#000000 ;
 	font-size:26px ;
 	line-height:28px ;
 	text-align:center ;
@@ -3244,7 +3245,7 @@ img{
 
 .sidebar-page-container .group-title h2{
 	font-size:30px;
-	color:#1d3a53;
+	color:#000000;
 	font-weight:700;
 	font-family: 'Roboto', sans-serif;
 }
@@ -3295,7 +3296,7 @@ img{
 
 .sidebar-page-container .comments-area .comment-info{
 	margin-bottom:6px;
-	color:#3e5773;
+	color:#000000;
 	line-height:24px;
 	font-size:13px;	
 }
@@ -3425,7 +3426,7 @@ img{
 .comment-form input:focus,
 .comment-form select:focus,
 .comment-form textarea:focus{
-	border-color:#1c4583;
+	border-color:#000000;
 }
 
 .news-block-two{
@@ -3531,8 +3532,8 @@ img{
 
 .news-section .owl-controls .owl-nav [class*="owl-"]:hover{
 	color:#ffffff ;
-	border-color:#1c4583 !important;
-	background-color:#1c4583 !important;
+	border-color:#000000 !important;
+	background-color:#000000 !important;
 }
 
 /*** 
@@ -3711,7 +3712,7 @@ img{
 
 .page-title{
 	position:relative;
-	padding:85px 0px 30px;
+	padding:385px 0px 30px;
 	background-size:cover;
 	background-position:center center;
 	background-repeat:no-repeat;
@@ -3725,7 +3726,7 @@ img{
 	width:100%;
 	height:100%;
 	position:absolute;
-	background:rgba(0,0,0,0.80);
+	background:none;
 }
 
 .page-title .auto-container{
@@ -4548,8 +4549,8 @@ img{
 
 .styled-pagination li a.next{
 	position:relative;
-	background-color:#1c4583;
-	border-color:#1c4583;
+	background-color:#000000;
+	border-color:#000000;
 	color:#ffffff;
 	font-size:18px;
 	font-weight:500;
